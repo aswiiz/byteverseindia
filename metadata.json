@@ -1,0 +1,6 @@
+{
+  "name": "ByteVerse - Ideas Into Digital Reality",
+  "description": "ByteVerse is a premium technology brand and project showcase portfolio where visitors explore software projects, discover technologies used, view live demos, and submit project enquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
